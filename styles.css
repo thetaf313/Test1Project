@@ -5,5 +5,11 @@ h1 {
 div {
 	margin-top: 50px;
 	margin-left: 20px;
-	border-width: 1px;
+	display: flex;
+	flex-direction: row;
 }
+.image {
+	width: 150px;
+	height: 150px;
+}
+
